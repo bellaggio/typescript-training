@@ -1,0 +1,5 @@
+ts-built
+node_modules
+.env
+.idea
+.github
